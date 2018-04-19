@@ -1,0 +1,271 @@
+* {
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+    color: #000000c2;
+    text-decoration: none;
+}
+.header {
+    width: 100%;
+    height: 200px;
+    background: #343a40!important;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+}
+
+.banner1 {
+    width: 100%;
+    height: 800px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: black;
+    margin-top: 30px;
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+
+.logo {
+    margin-top: 30px;
+    height: 75px;
+    width: 100px;
+}
+
+.menu {
+    margin-top: 30px;
+    margin-left: 650px;
+    width: auto;
+    height: 100px;
+    display: flex;
+}
+
+.prods {
+    font-family: cursive;
+    margin-top: 30px;
+    color: white;
+    
+}
+
+.Contacts {
+    font-family: cursive;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: white;
+}
+
+.us {
+    font-family: cursive;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: white;
+}
+
+.navbar1 {
+    display: flex;
+    height: auto;
+    width: 100%;
+}
+
+.UsProds {
+    font-family: cursive;
+}
+
+.bannerElem1 {
+    width: 100%;
+    font-size: 80pt;
+    text-align: center;
+    color: white;
+    cursor: default;
+    z-index: 100;
+}
+
+.ruki {
+    margin-bottom: 10px;
+    width: 100px;
+    height: auto;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s ease-out 0s;
+}
+.ruki:hover {
+    background-color: black;
+    color: white;
+}
+
+.smaz {
+    margin-bottom: 10px;
+    width: 100px;
+    height: auto;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s ease-out 0s;
+}
+.smaz:hover {
+    background-color: black;
+    color: white;
+}
+
+.masl {
+    margin-bottom: 10px;
+    width: 100px;
+    height: auto;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s ease-out 0s;
+}
+.masl:hover {
+    background-color: black;
+    color: white;
+}
+
+.tehzhid {
+    margin-bottom: 10px;
+    width: 100px;
+    height: auto;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s ease-out 0s;
+}
+.tehzhid:hover {
+    background-color: black;
+    color: white;
+}
+
+.himchist {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+}
+.himchist:hover {
+    background-color: black;
+    color: white;
+}
+
+.tovary {
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.vlevo {
+    margin-left: 35%;
+}
+
+.size {
+    font-size: 25pt;
+}
+
+.otsp {
+    margin-left: 30px;
+}
+
+.niz {
+    padding: 50px;
+}
+
+
+
+.hr1 {
+    border: 2px solid black;
+}
+
+.cal {
+    color:white;
+}
+.navbar-default {
+    background-color: black;
+    border-color: black;
+}
+
+
+.navbar-dark {
+    background-color: black;
+}
+
+.tovarkard1 {
+    text-decoration: none;
+    height: 600px;
+    width: 300px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.niz1 {
+    margin-top: 30px;
+}
+
+.sz {
+    font-size: 21pt;
+}
+
+.parallax-window {
+    min-height: 800px;
+    background: transparent;
+}
+
+
+.price {
+    background: #d9272e;
+    color: white;
+}
+
+.artic {
+    background: #a0a0a0;
+    color: white;
+}
+
+.bannerElem2 {
+    width: 100%;
+    font-size: 80pt;
+    text-align: center;
+    color: white;
+    cursor: default;
+    margin-top: -159px;
+    display: none;
+    z-index: 50;
+}
+
+.stolb1 {
+    margin-top: 50px;
+    width: 50%;
+    color: white;
+    text-align: center;
+}
+
+.stolb2 {
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    width: 50%;
+}
+
+
+
+.reset {
+    margin-bottom: 10px;
+    width: 100px;
+    height: auto;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s ease-out 0s;
+}
+
+.reset:hover {
+    background-color: black;
+    color: white;
+}
+
